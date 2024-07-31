@@ -4,6 +4,6 @@
   <artifactId>pwd-service</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 <build>
-<finalName>Pwe-service-app</finalName>
+<finalName>Pwd-service-app</finalName>
 </build>
 </project>
