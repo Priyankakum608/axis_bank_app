@@ -14,4 +14,5 @@ maven
  tools2{
 MySQL
 postgre
+oracle
 }
