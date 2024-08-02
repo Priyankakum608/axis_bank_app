@@ -12,6 +12,7 @@ chiku
 tools{
 sonrq
 maven
+ecliplse
 }
  tools2{
 MySQL
