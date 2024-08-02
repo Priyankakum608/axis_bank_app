@@ -13,6 +13,8 @@ tools{
 sonrq
 maven
 intellige
+ecliplse
+
 }
  tools2{
 MySQL
