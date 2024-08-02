@@ -12,6 +12,7 @@ chiku
 tools{
 sonrq
 maven
+intellige
 }
  tools2{
 MySQL
