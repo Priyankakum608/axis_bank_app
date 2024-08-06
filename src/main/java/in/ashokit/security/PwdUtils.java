@@ -6,6 +6,9 @@ import java.util.Base64.Encoder;
 
 
 public class PwdUtils {
+	public void roll(){
+		
+	}
 public String encodePwd(String pwd) {
 	Encoder encoder=Base64.getEncoder();
 	byte[] encode=encoder.encode(pwd.getBytes());
