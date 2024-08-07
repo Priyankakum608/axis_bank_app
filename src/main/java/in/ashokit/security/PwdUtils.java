@@ -14,6 +14,9 @@ public String encodePwd(String pwd) {
 	byte[] encode=encoder.encode(pwd.getBytes());
 	String encodedPwd=new String(encode);
 	return encodedPwd;
+	public void getDetais(){
+		System.out.printlin("hello");
+	}
 	
 }
 }
